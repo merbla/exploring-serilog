@@ -1,0 +1,30 @@
+2018-04-11 13:24:48.822 +10:00 [INF] This is a info statement
+2018-04-11 13:24:48.868 +10:00 [WRN] This is a warning statement
+2018-04-11 13:24:48.869 +10:00 [ERR] This is an error statement
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2018-04-11 13:24:48.870 +10:00 [FTL] This is an fatal statement
+System.AggregateException: One or more errors occurred.
+2018-04-11 13:34:40.275 +10:00 [INF] This is a info statement
+2018-04-11 13:34:40.332 +10:00 [WRN] This is a warning statement
+2018-04-11 13:34:40.334 +10:00 [ERR] This is an error statement
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2018-04-11 13:34:40.334 +10:00 [FTL] This is an fatal statement
+System.AggregateException: One or more errors occurred.
+2018-04-11 13:38:47.052 +10:00 [INF] This is a info statement
+2018-04-11 13:38:47.100 +10:00 [WRN] This is a warning statement
+2018-04-11 13:38:47.101 +10:00 [ERR] This is an error statement
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2018-04-11 13:38:47.102 +10:00 [FTL] This is an fatal statement
+System.AggregateException: One or more errors occurred.
+2018-04-11 13:41:26.531 +10:00 [INF] This is a info statement
+2018-04-11 13:41:26.598 +10:00 [WRN] This is a warning statement
+2018-04-11 13:41:26.600 +10:00 [ERR] This is an error statement
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2018-04-11 13:41:26.601 +10:00 [FTL] This is an fatal statement
+System.AggregateException: One or more errors occurred.
+2018-04-11 13:41:57.191 +10:00 [INF] This is a info statement
+2018-04-11 13:41:57.249 +10:00 [WRN] This is a warning statement
+2018-04-11 13:41:57.250 +10:00 [ERR] This is an error statement
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2018-04-11 13:41:57.250 +10:00 [FTL] This is an fatal statement
+System.AggregateException: One or more errors occurred.

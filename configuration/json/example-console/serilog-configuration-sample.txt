@@ -1,0 +1,6 @@
+2018-04-11 13:48:47.053 +10:00 [INF] This is a info statement
+2018-04-11 13:48:47.099 +10:00 [WRN] This is a warning statement
+2018-04-11 13:48:47.101 +10:00 [ERR] This is an error statement
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2018-04-11 13:48:47.101 +10:00 [FTL] This is an fatal statement
+System.AggregateException: One or more errors occurred.
